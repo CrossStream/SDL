@@ -77,3 +77,13 @@ Description: Simple DirectMedia Layer debug files
  framebuffer, audio output, mouse, and keyboard.
  .
  This package contains the debug symbols for the SDL library.
+
+Package: libsdl2-snapshot
+Architecture: all
+Section: utils
+Depends: ${misc:Depends}, libsdl2 (= ${source:Version})
+Suggests: rzr
+Priority: extra
+Description: unreleased snapshot version
+ TODO: Remove on issue and upgrade libsdl2
+
