@@ -1,8 +1,12 @@
-libsdl2 (2.0.12) UNRELEASED; urgency=low
+libsdl2 (0.2.0.12+312+g3cca627ba-316) unstable; urgency=low
 
+  [ Sam Lantinga ]
   * Updated SDL to version 2.0.13 for development builds
 
- -- Sam Lantinga <slouken@libsdl.org>  Tue, 10 Mar 2020 18:24:22 -0800
+  [ Philippe Coval ]
+  * debian: WIP: Update snapshot 0.2.0.12+312+g3cca627ba-316
+
+ -- Philippe Coval <rzr@users.sf.net>  Sat, 20 Jun 2020 11:29:05 +0200
 
 libsdl2 (2.0.12) UNRELEASED; urgency=low
 
