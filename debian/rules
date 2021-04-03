@@ -20,6 +20,7 @@ confflags = --disable-rpath --disable-video-directfb \
 #confflags += --disable-sndio-shared
 #confflags += --disable-wayland-shared
 #confflags += --disable-x11-shared
+confflags += --enable-video-opengles1
 
 %:
 	dh $@ --parallel
