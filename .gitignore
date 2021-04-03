@@ -157,3 +157,5 @@ test/testvulkan
 test/testwm2
 test/testyuv
 test/torturethread
+
+debian/files
